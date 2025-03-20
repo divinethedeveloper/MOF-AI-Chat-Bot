@@ -66,7 +66,7 @@
             "procurement_check": ["check procurement", "approved supplier", "procurement status", "supplier status"],
             "personal_finance": ["personal finance", "financial advice", "money advice", "investment advice"],
             "ai_capabilities": ["what can you do", "ai capabilities", "chatbot features", "what do you know"],
-            "ai_joke": ["tell me a joke", "make me laugh", "funny", "joke", "say something funny", "tell me something"],
+            "ai_joke": ["tell me a joke", "make me laugh", "funny", "joke"],
             "ai_prediction": ["predict future", "future prediction", "what will happen", "future trends"],
             "ai_takeover": ["ai takeover", "robots taking over", "ai future", "ai revolution"],
             "business_proposal": ["write proposal", "business proposal", "proposal help", "proposal guide"],
@@ -201,35 +201,7 @@
             "procurement_check": "You can check the Public Procurement Authority's database for registered suppliers.",
             "personal_finance": "Yes, I can provide general financial advice, but for specific investment decisions, you should consult a financial expert.",
             "ai_capabilities": "I can answer your questions, provide information about government processes, help with tax and procurement inquiries, and even chat for fun!",
-            "ai_joke": [
-                "Why did the tax collector break up with their partner? Because they found them too taxing!",
-                "What did the accountant say to the budget? You don't add up!",
-                "Why did the economist bring a ladder to work? Because they heard the interest rates were going up!",
-                "What's a finance minister's favorite game? Budget Ball!",
-                "Why don't economists tell dad jokes? Because they depreciate too quickly!",
-                "What did the bank teller say to the customer? 'I'm counting on you!'",
-                "Why did the budget go to the doctor? Because it needed a fiscal checkup!",
-                "Why did the Ghanaian cedi go to therapy? It had trouble holding onto relationships with the dollar!",
-                "The budget is like a jollof pot—you think you've measured everything right, but halfway through, you realize you forgot the most important ingredient: MONEY!",
-                "Why did the accountant break up with his girlfriend? She kept rounding up when he was clearly below budget.",
-                "Ghana's budget is like a trotro conductor—every year, it asks for more, but you're not sure where the money is actually going.",
-                "Why did the finance minister bring a ladder to the budget meeting? Because he was trying to 'raise' revenue!",
-                "The stock market is like waakye prices—one day it's calm, the next day it's out of control!",
-                "Why did the economy refuse to fight back? Because it had already taken too many hits from inflation!",
-                "Ghana's national debt is like fufu on a Saturday—no matter how much you pound it, it keeps growing!",
-                "Why don't politicians play hide and seek? Because good luck finding where the budget money went!",
-                "I checked my bank account today and saw a new feature—A message saying, 'Please deposit funds before viewing balance!'",
-                "Ghana's economy is like dumsor—just when you think it's getting better, it goes off again!",
-                "Why don't financial analysts ever get lost? Because they always follow the trend!",
-                "The budget is like wedding planning—you start with a simple idea, and before you know it, you're broke!",
-                "Why did the economist bring a pencil to work? Because he knew the budget would have a lot of erasing!",
-                "My salary and my expenses are like Tom and Jerry—always chasing, never catching each other!",
-                "Ghana's inflation is like a taxi driver—always finding a way to charge you more than expected!",
-                "Why did the banker sit on his money? He wanted to see his assets grow!",
-                "What's the difference between a government budget and a New Year's resolution? Both start strong but rarely stick to the plan!",
-                "Inflation is like buying kelewele—the quantity keeps getting smaller, but the price keeps going up!",
-                "The economy is like a long trotro ride—you're just hoping the fuel doesn't run out before you reach your destination!"
-            ],
+            "ai_joke": "Why did the Ghanaian cedi go to therapy? It had trouble holding onto relationships with the dollar!",
             "ai_prediction": "I can analyze data and trends, but I don't have supernatural abilities—yet!",
             "ai_takeover": "I believe in assisting humans, not replacing them. The future is about collaboration!",
             "business_proposal": "Yes! I can provide guidance and structure for your proposal. Just let me know the details.",
@@ -260,9 +232,11 @@
         },
         "default": [
             "I apologize, but I'm not sure about that specific information. Could you please rephrase your question or contact customer service for detailed assistance?",
-            "That's an interesting question. While I don't have specific information, you might find what you're looking for on our official website.",
+            "That's interesting. While I don't have specific information, you might find what you're looking for on our official website.",
             "For accurate information about this topic, I recommend checking our official website or contacting our support team."
         ]
     }
 }
+
+
 
